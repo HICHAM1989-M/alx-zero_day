@@ -1,1 +1,1 @@
-text 2 into 0x03_git
+My readme file for 0x03-git directory
